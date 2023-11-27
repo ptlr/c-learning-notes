@@ -1,4 +1,4 @@
-# <h1 align="center">初始C语言</h1>
+# <h1 align="center">初识C语言</h1>
 
 - 简单历史
 - 优点和缺点
